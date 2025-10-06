@@ -35,7 +35,7 @@
     "@tiptap-pro/extension-file-handler": "^2.11.2",
     "@tiptap-pro/extension-mathematics": "^2.11.2",
     "@tiptap-pro/extension-node-range": "^2.11.2",
-    "@tiptap/core": "^2.7.1",
+    "@tiptap/core": "^3.6.5",
     "@tiptap/extension-bubble-menu": "^2.7.1",
     "@tiptap/extension-character-count": "^2.7.1",
     "@tiptap/extension-code-block-lowlight": "^2.7.1",
